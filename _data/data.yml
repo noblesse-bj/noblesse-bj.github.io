@@ -12,8 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: powernoh92gmail.com
-    email: powernoh@kaist.ac.kr
+    email: powernoh92gmail.com / powernoh@kaist.ac.kr
     phone: +82-10-9995-1231
     website: #blog.webjeda.com #do not add http://
     linkedin: bjnope
@@ -54,9 +53,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: MSc in Database and Data Mining
+          - GPA: 3.23 / 4.3
+    - degree: M.S. in Database and Data Mining
       university: Korea University
       time: 2015 - 2017
       details: |
@@ -65,9 +63,9 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Computer Information Science
+          - GPA: 4.40 / 4.5
+          
+    - degree: B.S. in Computer Information Science
       university: Korea University
       time: 2011 - 2015
       details: |
@@ -76,8 +74,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Major GPA: 4.42 / 4.5
+          
 experiences:
     - role: Student Internship
       time: 2017.05 - 2018.12
