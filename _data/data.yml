@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Byeongjoon Noh
+    tagline: Data Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: powernoh92gmail.com / powernoh@kaist.ac.kr
+    phone: +82-10-9995-1231
+    website: #blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/bjnope/
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
