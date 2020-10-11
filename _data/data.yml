@@ -96,9 +96,10 @@ projects:
     intro: >
       Listed projects that have been involved in the recent 5 years 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Technology development to analyze urban space risks and improve urban resilience in declining areas (1.1 b)
+        #link: "#hook"
+        tagline: - testsetset
+        - testsetsete213212
 
       - title: DevStudio
         link: "#"
