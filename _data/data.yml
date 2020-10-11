@@ -96,7 +96,7 @@ projects:
     assignments:
       - title: Technology development to analyze urban space risks and improve urban resilience in declining areas (1.1 b)
         #link: "#hook"
-        tagline: - testsetset
+        tagline: "- testsetset"
 
       - title: DevStudio
         link: "#"
