@@ -79,17 +79,15 @@ education:
 experiences:
     - role: Student Internship
       time: 2017.05 - 2018.12
-      company: CNCity Energy
-      position: HR Team
+      company: CNCity Energy, HR Team
       details: |
         Software development 
         
     - role: Student Internship
       time: 2013.01 - 2013.08
-      company: AhnLab Corp.
-      position: Department of software development and quality assurance
+      company: AhnLab Corp. Department of software development and quality assurance
       details: |
-       
+       Software development
     
 projects:
     title: Projects
